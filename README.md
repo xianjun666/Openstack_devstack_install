@@ -1,4 +1,4 @@
-# Openstack_devstack_manual
+# Openstack_devstack_install
 
 "devstack_manual_install.txt" file is the manual of install openstack in devstack.
 
